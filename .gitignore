@@ -1,0 +1,13 @@
+/.vs
+/src/BuildingBlocks/Exam.Repository/obj
+/src/BuildingBlocks/Exam.Repository/bin
+/src/BuildingBlocks/Exam.Cache/obj
+/src/BuildingBlocks/Exam.Cache/bin
+/src/BuildingBlocks/Exam.Models/obj
+/src/BuildingBlocks/Exam.Models/bin
+/src/BuildingBlocks/Exam.MongoDb/obj
+/src/BuildingBlocks/Exam.MongoDb/bin
+/src/Services/Exam.Service/obj
+/src/Services/Exam.Service/bin
+/src/WebApp/Exam.Manage.WebApi/obj
+/src/WebApp/Exam.Manage.WebApi/bin
